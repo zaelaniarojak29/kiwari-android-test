@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KiwariChatTest</string>
+    <string name="text_login">Login</string>
+
+</resources>

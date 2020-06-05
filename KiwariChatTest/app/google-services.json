@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712024209970",
+    "firebase_url": "https://kiwari-chat.firebaseio.com",
+    "project_id": "kiwari-chat",
+    "storage_bucket": "kiwari-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712024209970:android:50685d2afb76f38bb91a2b",
+        "android_client_info": {
+          "package_name": "com.example.kiwarichattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712024209970-ulfktc3cfik1m2kcj9p4f5g0q2q64veg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKPpXaUBE-HjwTIZqdlI6JcUCuvSZ0Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712024209970-ulfktc3cfik1m2kcj9p4f5g0q2q64veg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
